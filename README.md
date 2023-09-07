@@ -1,5 +1,7 @@
 #KainsenApp
-> Progetto del corso di "Programmazione di Dispositivi Mobili" dell'anno 2022 (Università Milano-Bicocca)
+> Progetto del corso di "Programmazione di Dispositivi Mobili" svolto nel 2022 (Università degli Studi di Milano-Bicocca)
+
+Applicazione mobile per la gestione di film e serieTV
 
 Componenti
 - Ghanimi Alaaeddine 856573
